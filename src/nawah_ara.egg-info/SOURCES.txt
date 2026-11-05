@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+pyproject.toml
+src/nawah/__init__.py
+src/nawah/core.py
+src/nawah_ara.egg-info/PKG-INFO
+src/nawah_ara.egg-info/SOURCES.txt
+src/nawah_ara.egg-info/dependency_links.txt
+src/nawah_ara.egg-info/top_level.txt
