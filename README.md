@@ -11,7 +11,7 @@
 pip install nawah-ara
 ```
 
-مثال على الإستخدام 
+# مثال على الاستخدام  
 
 ```Python
 from nawah import *
